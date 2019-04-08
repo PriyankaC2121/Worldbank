@@ -1,4 +1,4 @@
-** WORLD BANK (MENA) ** : 
+### WORLD BANK (MENA) : 
 
 **Intro**: The WorldBank has numerous economic and demographic details of the world. We were assigned the Middle East and East Africa (MENA) region to investigate and clean.
 
